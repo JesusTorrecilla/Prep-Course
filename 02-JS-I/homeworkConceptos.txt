@@ -1,0 +1,13 @@
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+ * 
+ * 
+ * Variables: "recipiente" que puede contener información tal como números, cadenas de caracteres, booleanos o datos especiales como null.
+ String: Cadena de caracteres, que pueden incluir cualquier tipo de caracteres, ya sea números, letras o caracteres especiales.
+ Funciones: Herramienta que nos sirve para escribir código que vamos a reutilizar periódicamente. Pueden recibir parámetros que llamamos "argumentos" o pueden no recibir nada. Los argumentos van entre paréntesis cuando se define la función.
+ De base, las funciones devuelven undefined. Si queremos que devuelva algo que nosotros queramos, se hace con la palabra reservada "return".
+ If: El if statement es una herramienta que nos permite verificar si una condición es verdadera o falsa para luego ejectuar un código en caso de que sea verdadera.
+ Valores booleanos: Pueden ser verdadero o falso. Nos sirven para controlar el flujo de código mediante herramientas tales como las condiciones.
