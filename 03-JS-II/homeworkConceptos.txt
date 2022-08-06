@@ -1,0 +1,11 @@
+* `for`
+* `&&`, `||`, `!`
+
+
+Conceptos
+
+for: Es una herramienta que se utiliza para no repetir código. Podemos darle distintos valores a la variable que recorre el statement en vez de escribir x veces lo mismo. Principio DRY.
+
+`&&`, `||`, `!`: && significa "y", se usa si queremos dos o más condiciones se cumplan a la vez.
+                 || significa "o", se usa si queremos que con que se cumpla una sola condición sea suficiente.
+                 !: significa "no", se usa si queremos negar la expresión.
