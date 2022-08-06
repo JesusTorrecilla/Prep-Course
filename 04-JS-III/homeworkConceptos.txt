@@ -1,0 +1,1 @@
+Arrays: Tipo de dato no nativo similar a una lista en el que se pueden almacenar datos nativos de cualquier tipo y despues se puede recorrer para facilitar ciertas tareas.
