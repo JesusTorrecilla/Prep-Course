@@ -1,0 +1,5 @@
+Objetos: Instancia de una clase.
+ Propiedades: Nombre que se le da a las variables que están dentro de un objeto.
+ Métodos: Nombre que se le da a las funciones dentro de un objeto.
+ Bucle: `for…in`: Sirve para recorrer objetos usando una clave para que sirva como el índice del objeto mientras se recorre.
+Notación de puntos vs notación de corchetes: La de puntos es más facil de llamar pero solo acepta el nombre de la propiedad/método, no acepta variables. El de corchetes es más tedioso de escribir, pero acepta variables dentro de los corchetes.
