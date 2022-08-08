@@ -1,0 +1,2 @@
+* `prototype`: Es la clase "madre" que tiene cada objeto. Puede ser nativa o creada, aunque las creadas tienen las nativas como prototypes. Aquí existen métodos que heredan las respectivas clases y podemos usarlos sin tener que declararlos en la misma.
+* _Constructors_ (de Clases): Aquí escribimos los parámetros (variables) y métodos (funciones) que queremos que tenga nuestra clase.
