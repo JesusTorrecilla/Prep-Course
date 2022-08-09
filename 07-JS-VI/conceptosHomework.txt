@@ -1,1 +1,1 @@
-Funciones callback: Funciones que como parámetro reciben una función que debe devolver algo.
+Funciones callback: Funciones que, como parámetro, reciben una función que debe devolver algo.
