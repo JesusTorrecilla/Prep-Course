@@ -1,0 +1,33 @@
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: bisque;
+    padding: 50px;
+    border: 2px solid black;
+}
+.divClass{
+    width: 200px;
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+}
+#spanId{
+    font-size: 18px;
+    margin:50px;
+}
+h1{
+    color:red;
+}
+img{
+    width: 400px;
+}
+
+body{
+    background: url(https://coolhdwall.com/storage1/202107/sea-dock-pier-scenery-4k-wallpaper-3840x2160.jpg);
+}
+div{
+margin: auto;
+}
