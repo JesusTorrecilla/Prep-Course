@@ -7,12 +7,7 @@
 }
 .divClass{
     width: 200px;
-    display: -webkit-flex;
-    display:         flex;
-    -webkit-align-items: center;
-            align-items: center;
-    -webkit-justify-content: center;
-            justify-content: center;
+
 }
 #spanId{
     font-size: 18px;
@@ -28,6 +23,9 @@ img{
 body{
     background: url(https://coolhdwall.com/storage1/202107/sea-dock-pier-scenery-4k-wallpaper-3840x2160.jpg);
 }
-div{
-margin: auto;
+#centrar{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
 }
